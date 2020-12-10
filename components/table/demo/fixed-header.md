@@ -24,7 +24,7 @@ const columns = [
   {
     title: 'Name',
     dataIndex: 'name',
-    width: 150,
+    width: 'auto',
   },
   {
     title: 'Age',
